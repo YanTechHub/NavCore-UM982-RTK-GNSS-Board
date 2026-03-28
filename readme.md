@@ -1,5 +1,5 @@
 # NavCore-UM982-RTK-GNSS-Board
 
-<img title="" src="../NavCore-UM982-RTK-GNSS-Board/Image/1.jpg" alt="" width="267">
+<img src="https://github.com/YanTechHub/NavCore-UM982-RTK-GNSS-Board/blob/main/Image/1.jpg?raw=true" title="" alt="1.jpg" width="244">
 
-<img title="" src="../NavCore-UM982-RTK-GNSS-Board/Image/2.jpg" alt="" width="266">
+<img src="https://github.com/YanTechHub/NavCore-UM982-RTK-GNSS-Board/blob/main/Image/2.jpg?raw=true" title="" alt="1.jpg" width="235">
